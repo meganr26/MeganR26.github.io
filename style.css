@@ -1,5 +1,14 @@
-style.css
 
-#homepage {
-	background-color: #911919;
+
+body{
+	background-color: #CFCFCF;
+}
+
+
+a {
+	color:#8A0B0B;
+}
+
+a:hover {
+	color:#2A3B7A;
 }
